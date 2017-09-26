@@ -1,0 +1,29 @@
+{
+  "name": "react-hm",
+  "version": "1.0.0",
+  "description": "react-hm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marshall49/react-hm.git"
+  },
+  "author": "malcolm strong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marshall49/react-hm/issues"
+  },
+  "homepage": "https://github.com/Marshall49/react-hm#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.5",
+    "mongodb": "^2.2.31",
+    "mongojs": "^2.4.1",
+    "mongoose": "^4.11.13",
+    "morgan": "^1.8.2",
+    "request": "^2.82.0"
+  }
+}
